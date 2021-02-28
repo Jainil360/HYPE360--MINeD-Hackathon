@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "412072252728",
+    "firebase_url": "https://hype360-web.firebaseio.com",
+    "project_id": "hype360-web",
+    "storage_bucket": "hype360-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412072252728:android:dfb359c442ef1f11739dcd",
+        "android_client_info": {
+          "package_name": "com.hype360.hype360india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412072252728-ric83oa850qvl8302sl3in6e3tuucoeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hype360.hype360india",
+            "certificate_hash": "19ab5db0821e681a7095bfb0b1a8edb9717cc85d"
+          }
+        },
+        {
+          "client_id": "412072252728-fe4bdedjm1longgvtdtinbn0joupv2pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hype360.hype360india",
+            "certificate_hash": "6449c33c5853c7bd1e37bb81fddd9417cacd4b72"
+          }
+        },
+        {
+          "client_id": "412072252728-gej0uv8aji2087cjo8t5uqcgtl28djq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD772khfPyKIuPC2S7a9jOFDkl7DUb01N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412072252728-gej0uv8aji2087cjo8t5uqcgtl28djq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
